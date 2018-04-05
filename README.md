@@ -1,4 +1,6 @@
 
+to get the diff for staged
+
 this is my third program
 
 this is my second program
